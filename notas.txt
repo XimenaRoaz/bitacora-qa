@@ -1,2 +1,3 @@
 Aprendí a revisar cambios antes de hacer commit.
 Aprendí a usar git diff.
+Aprendí a deshacer cambios con git restore.
