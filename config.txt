@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Ambiente produccion
-=======
 Ambiente: pruebas
->>>>>>> cambio-ambiente
-
